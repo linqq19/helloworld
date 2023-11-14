@@ -5,3 +5,6 @@ A  prototype system for multi-resolution modeling and simulation.
 construction of different resolution simulation description models and deaggregation of Coupled Model:
 
 
+
+https://github.com/linqq19/multi-resolution-modeling-and-simulation/assets/54255402/aa5479da-2cb0-45b9-9a3e-623c346da86b
+
